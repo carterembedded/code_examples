@@ -1,0 +1,9 @@
+{
+    "apiVersion": 3,
+    "name": "carter/event-datetime",
+    "title": "Event Date & Time",
+    "category": "widgets",
+    "usesContext": ["postId"],
+    "editorScript": "carter-event-datetime-editor",
+    "render": "file:./render.php"
+}
